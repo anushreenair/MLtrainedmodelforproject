@@ -55,7 +55,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow yfinance
 
 ## Notes
 - Ensure a stable internet connection for data fetching.
-- The model performance depends on the availability and quality of historical data.
+- The model's performance depends on the availability and quality of historical data.
 - The prediction accuracy varies based on market volatility and trends.
 
 ## License
@@ -65,4 +65,7 @@ This project is licensed under the MIT License.
 - Anushree
 
 For any queries, feel free to contact me!
+
+/*****************************************************************************************************************************************/
+
 
